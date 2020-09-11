@@ -74,7 +74,7 @@ nav {
 
 
 #intro-bg {
-    background-image: url("/deneme1/img/555.png") !important; 
+    background-image: url("/home/mehmet/web Denemeler/deneme1/Responsive-Web-Site/img/555.png") !important; 
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -86,7 +86,7 @@ nav {
 }
 
 .jumbotron {
-    background-image: url("/deneme1/img/25.png") !important;
+    background-image: url("/deneme1/img/25.jpg") !important;
     background: none !important;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
